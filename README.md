@@ -1,3 +1,11 @@
+# StarWarsQuiz
+
+Jest to aplikacja, dzięki której nauczyłem się pracy w grupie wykorzystując system kontroli wersji git.
+
+Dzięki projektowi grupowemu nauczyłem się pracy na własnym branchu, rozwiązywanie konfliktów podczas mergowania na główny branch, przeprowadzania code review kodu innych uczestników oraz realizowania tasków w określonym czasie. Krótko mówiąc - nauczyłem się jak powinna wyglądać praca w zespole.
+
+Szczegóły oraz link do github pages znajdziesz poniżej.
+
 # Welcome to the Star Wars Quiz!
 
 This is a game based on The Star Wars API ([SWAPI](https://swapi.dev/)). You have 2 minutes to answer as many questions as you can. Will your score be high enough to place in ranking? Let's find out!
